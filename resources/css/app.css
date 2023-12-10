@@ -1,0 +1,6 @@
+.pre-loader .loader-logo {
+    width: 100px;
+    inline-size: 100px;
+    aspect-ratio: 3/2;
+    mix-blend-mode: darken;
+}
